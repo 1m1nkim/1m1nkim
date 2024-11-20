@@ -4,6 +4,5 @@
   width="600"
   height="300"
 />
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=1m1nkim)
-
 </a>
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=1m1nkim&show_icons=true&theme=tokyonight)
