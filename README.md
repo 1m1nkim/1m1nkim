@@ -1,7 +1,9 @@
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=1m1nkim&show_icons=true&theme=tokyonight)
+<div style="display: flex; justify-content: center; align-items: center;">
+    <img src="https://github-readme-stats.vercel.app/api?username=1m1nkim&show_icons=true&theme=tokyonight" alt="Anurag's github stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1m1nkim&layout=compact&theme=dracula" alt="Top Langs" />
+</div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1m1nkim&layout=compact&theme=dracula)
 
 <a href="https://github.com/devxb/gitanimals">
 <img
